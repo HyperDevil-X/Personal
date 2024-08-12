@@ -1,5 +1,5 @@
 <h1 align ="center">My Personal Protfolio</h1>
-<h2><a href="https://hyperdevil-x.github.io/Business/" target="_blank">Website Link</a></h2>
+<h2><a href="https://hyperdevil-x.github.io/Personal/" target="_blank">Website Link</a></h2>
 <img src="cover.PNG">
  <h3  align ="center"><b>My Personal Protfolio using HTML5,CSS3,JAVASCRIPT</b></h3>
  <br>
