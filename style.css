@@ -408,7 +408,7 @@ header.sticky .nav-bar{
     width: 85%;
 }
 .bar .js:before{
-    width: 30%;
+    width: 75%;
 }
 .bar .php:before{
     width: 35%;
@@ -426,10 +426,19 @@ header.sticky .nav-bar{
     width: 70%;
 }
 .bar .mongodb:before{
-    width: 20%;
+    width: 60%;
+}
+.bar .nodejs:before{
+    width: 60%;
+}
+.bar .expressjs:before{
+    width: 60%;
 }
 .bar .boots:before{
     width: 50%;
+}
+.bar .reactjs:before{
+    width: 80%;
 }
 .services .container .content{
     width: 100%;
